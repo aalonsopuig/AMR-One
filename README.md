@@ -1,5 +1,5 @@
 # AMR-One
- [C++, Python, ROS, Gcode +] 2022. Autonomous Mobile Robot<br>
+ [C++, Python, ROS, Gcode] 2022. Autonomous Mobile Robot<br>
 
 _Status [3/10/2023]: Done: The mechanical and electric parts of the robot, the magnetic navigation, the safety systems, and the cloud monitoring are fully operational. Pending: ROS SLAM-based navigation_
  <br><br>
