@@ -1,0 +1,51 @@
+<definition orientation="dyyy" link_type="simple" hotspot_x="81" height="110" type="element" width="160" version="0.70" hotspot_y="54">
+    <uuid uuid="{56daf7d8-f9b9-443a-844e-b6264c18d76b}"/>
+    <names>
+        <name lang="cs">HMI TACTILE 2</name>
+        <name lang="de">Touchpanel 2</name>
+        <name lang="it">Touch screen 2</name>
+        <name lang="ar">HMI TACTILE 2</name>
+        <name lang="en">Touch panel 2</name>
+        <name lang="pl">HMI TACTILE 2</name>
+        <name lang="fr">HMI TACTILE 2</name>
+        <name lang="es">HMI TÁCTIL 2</name>
+        <name lang="nl">HMI Aanraakscherm klein</name>
+    </names>
+    <elementInformations/>
+    <informations>Author: The QElectroTech team
+License: see http://qelectrotech.org/wiki/doc/elements_license</informations>
+    <description>
+        <dynamic_text uuid="{40693699-ede1-4abd-b82a-6577e3c473dc}" rotation="0" Halignment="AlignLeft" x="-50.8678" y="32.3322" frame="false" Valignment="AlignTop" font="Sans Serif,6,-1,5,25,0,0,0,0,0" z="1" text_width="-1" text_from="UserText">
+            <text>-</text>
+        </dynamic_text>
+        <arc start="-90" angle="-90" x="-75" y="37.575" style="line-style:normal;line-weight:normal;filling:none;color:black" height="9.75" antialias="true" width="11.25"/>
+        <dynamic_text uuid="{a44b223c-08cf-407a-a9f0-bf4efaa4a345}" rotation="0" Halignment="AlignLeft" x="-37.4045" y="33.5056" frame="false" Valignment="AlignTop" font="Sans Serif,4,-1,5,25,0,0,0,0,0" z="3" text_width="-1" text_from="UserText">
+            <text>SCL</text>
+        </dynamic_text>
+        <dynamic_text uuid="{a44b223c-08cf-407a-a9f0-bf4efaa4a345}" rotation="0" Halignment="AlignLeft" x="-23.2879" y="33.5039" frame="false" Valignment="AlignTop" font="Sans Serif,4,-1,5,25,0,0,0,0,0" z="3" text_width="-1" text_from="UserText">
+            <text>SDA</text>
+        </dynamic_text>
+        <arc start="-180" angle="-90" x="-75" y="-49" style="line-style:normal;line-weight:normal;filling:none;color:black" height="9.75" antialias="true" width="11.25"/>
+        <arc start="0" angle="-90" x="63.75" y="37.575" style="line-style:normal;line-weight:normal;filling:none;color:black" height="9.75" antialias="true" width="11.25"/>
+        <arc start="90" angle="-90" x="63.75" y="-49" style="line-style:normal;line-weight:normal;filling:none;color:black" height="9.75" antialias="true" width="11.25"/>
+        <line length2="1.5" style="line-style:normal;line-weight:normal;filling:none;color:black" end1="none" end2="none" length1="1.5" x2="69" antialias="false" y2="-49" x1="-69" y1="-49"/>
+        <line length2="1.5" style="line-style:normal;line-weight:normal;filling:none;color:black" end1="none" end2="none" length1="1.5" x2="-75" antialias="false" y2="41.8" x1="-75" y1="-44"/>
+        <line length2="1.5" style="line-style:normal;line-weight:normal;filling:none;color:black" end1="none" end2="none" length1="1.5" x2="75" antialias="false" y2="41.789" x1="75" y1="-44"/>
+        <line length2="1.5" style="line-style:normal;line-weight:normal;filling:none;color:black" end1="none" end2="none" length1="1.5" x2="69.1472" antialias="false" y2="47.3397" x1="-70.0877" y1="47.325"/>
+        <dynamic_text uuid="{99305e38-7080-41eb-b1a6-f7b3a37c6844}" rotation="0" Halignment="AlignLeft" x="-6" y="-43.525" frame="false" Valignment="AlignTop" font="Sans Serif,5,-1,5,50,0,0,0,0,0" z="12" text_width="-1" text_from="ElementInfo">
+            <text></text>
+            <info_name>label</info_name>
+        </dynamic_text>
+        <rect x="-65" y="-37" style="line-style:normal;line-weight:normal;filling:none;color:black" height="66" ry="0" antialias="false" width="130" rx="0"/>
+        <dynamic_text uuid="{6e6ff2fb-9ad5-46e9-922a-f33cedec6b0d}" rotation="0" Halignment="AlignLeft" x="-66.3145" y="32.1123" frame="false" Valignment="AlignTop" font="Sans Serif,6,-1,5,25,0,0,0,0,0" z="13" text_width="-1" text_from="UserText">
+            <text>+</text>
+        </dynamic_text>
+        <text text="7&quot; TouchScreen" rotation="0" x="-33.0959" y="-1.55659" font="Sans Serif,9,-1,5,50,0,0,0,0,0" color="#000000"/>
+        <text text="Display" rotation="270" x="-65.7324" y="-1.01198" font="Sans Serif,4,-1,5,50,0,0,0,0,0" color="#000000"/>
+        <terminal orientation="w" x="-75" y="0"/>
+        <terminal orientation="s" x="-16" y="48"/>
+        <terminal orientation="s" x="-45" y="48"/>
+        <terminal orientation="s" x="-30" y="48"/>
+        <terminal orientation="s" x="-60" y="48"/>
+    </description>
+</definition>

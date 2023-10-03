@@ -1,0 +1,93 @@
+<definition hotspot_x="55" hotspot_y="55" width="110" height="180" link_type="simple" orientation="dyyy" type="element" version="0.70">
+    <uuid uuid="{59b72c8a-f76c-4d9d-b295-fa0f1c058678}"/>
+    <names>
+        <name lang="es">Conversor niveles lógicos</name>
+        <name lang="en">Voltage Level Shifter</name>
+    </names>
+    <elementInformations>
+        <elementInformation show="1" name="unity"></elementInformation>
+        <elementInformation show="1" name="manufacturer"></elementInformation>
+        <elementInformation show="1" name="comment"></elementInformation>
+        <elementInformation show="1" name="machine-manufacturer-reference"></elementInformation>
+        <elementInformation show="1" name="supplier"></elementInformation>
+        <elementInformation show="1" name="designation"></elementInformation>
+        <elementInformation show="1" name="plant"></elementInformation>
+        <elementInformation show="1" name="label"></elementInformation>
+        <elementInformation show="1" name="description"></elementInformation>
+        <elementInformation show="1" name="manufacturer-reference"></elementInformation>
+        <elementInformation show="1" name="quantity"></elementInformation>
+    </elementInformations>
+    <informations></informations>
+    <description>
+        <line length2="1.5" style="line-style:normal;line-weight:normal;filling:none;color:black" x1="-42.9688" length1="1.5" end2="none" y1="-4.94267" x2="-32.9688" y2="-4.94267" antialias="false" end1="none"/>
+        <line length2="1.5" style="line-style:normal;line-weight:normal;filling:none;color:black" x1="-42.9182" length1="1.5" end2="none" y1="95.3933" x2="-32.9182" y2="95.3933" antialias="false" end1="none"/>
+        <line length2="1.5" style="line-style:normal;line-weight:normal;filling:none;color:black" x1="-42.9455" length1="1.5" end2="none" y1="54.7878" x2="-32.9455" y2="54.7878" antialias="false" end1="none"/>
+        <line length2="1.5" style="line-style:normal;line-weight:normal;filling:none;color:black" x1="32.9631" length1="1.5" end2="none" y1="4.96394" x2="42.9631" y2="4.96394" antialias="false" end1="none"/>
+        <line length2="1.5" style="line-style:normal;line-weight:normal;filling:none;color:black" x1="-42.9846" length1="1.5" end2="none" y1="74.7214" x2="-32.9846" y2="74.7214" antialias="false" end1="none"/>
+        <line length2="1.5" style="line-style:normal;line-weight:normal;filling:none;color:black" x1="-42.9376" length1="1.5" end2="none" y1="15.0261" x2="-32.9376" y2="15.0261" antialias="false" end1="none"/>
+        <line length2="1.5" style="line-style:normal;line-weight:normal;filling:none;color:black" x1="-42.9064" length1="1.5" end2="none" y1="35.2761" x2="-32.9064" y2="35.2761" antialias="false" end1="none"/>
+        <rect x="-50" y="-50" width="100" style="line-style:normal;line-weight:normal;filling:none;color:black" height="170" rx="0" antialias="false" ry="0"/>
+        <text x="-30" y="62" text="6+" color="#000000" font="Sans Serif,6,-1,5,50,0,0,0,0,0" rotation="0"/>
+        <text x="17.0471" y="-6.56257" text="VCC" color="#000000" font="Sans Serif,6,-1,5,50,0,0,0,0,0" rotation="0"/>
+        <text x="-30.7663" y="1.77527" text="3+" color="#000000" font="Sans Serif,6,-1,5,50,0,0,0,0,0" rotation="0"/>
+        <text x="22" y="32" text="O3" color="#000000" font="Sans Serif,6,-1,5,50,0,0,0,0,0" rotation="0"/>
+        <text x="-30.2132" y="31.9612" text="4-" color="#000000" font="Sans Serif,6,-1,5,50,0,0,0,0,0" rotation="0"/>
+        <text x="-30.5108" y="-27.6021" text="1-" color="#000000" font="Sans Serif,6,-1,5,50,0,0,0,0,0" rotation="0"/>
+        <text x="-30.6811" y="-7.92736" text="2-" color="#000000" font="Sans Serif,6,-1,5,50,0,0,0,0,0" rotation="0"/>
+        <text x="-30.5819" y="12.2865" text="3-" color="#000000" font="Sans Serif,6,-1,5,50,0,0,0,0,0" rotation="0"/>
+        <text x="-30.3975" y="21.9891" text="4+" color="#000000" font="Sans Serif,6,-1,5,50,0,0,0,0,0" rotation="0"/>
+        <text x="-30.8655" y="-17.8995" text="2+" color="#000000" font="Sans Serif,6,-1,5,50,0,0,0,0,0" rotation="0"/>
+        <text x="-30.0288" y="42.2029" text="5+" color="#000000" font="Sans Serif,6,-1,5,50,0,0,0,0,0" rotation="0"/>
+        <text x="-30.3547" y="71.7026" text="6-" color="#000000" font="Sans Serif,6,-1,5,50,0,0,0,0,0" rotation="0"/>
+        <text x="16.8721" y="3.22991" text="GND" color="#000000" font="Sans Serif,6,-1,5,50,0,0,0,0,0" rotation="0"/>
+        <text x="-30.6952" y="-37.5743" text="1+" color="#000000" font="Sans Serif,6,-1,5,50,0,0,0,0,0" rotation="0"/>
+        <text x="21.6453" y="41.7026" text="O4" color="#000000" font="Sans Serif,6,-1,5,50,0,0,0,0,0" rotation="0"/>
+        <text x="21.3688" y="12.2138" text="O1" color="#000000" font="Sans Serif,6,-1,5,50,0,0,0,0,0" rotation="0"/>
+        <text x="-30.1703" y="81.6747" text="7+" color="#000000" font="Sans Serif,6,-1,5,50,0,0,0,0,0" rotation="0"/>
+        <text x="21.8297" y="51.6747" text="O5" color="#000000" font="Sans Serif,6,-1,5,50,0,0,0,0,0" rotation="0"/>
+        <text x="21.7445" y="61.3774" text="O6" color="#000000" font="Sans Serif,6,-1,5,50,0,0,0,0,0" rotation="0"/>
+        <text x="-30.2555" y="91.3774" text="7-" color="#000000" font="Sans Serif,6,-1,5,50,0,0,0,0,0" rotation="0"/>
+        <text x="21.9289" y="71.8886" text="O7" color="#000000" font="Sans Serif,6,-1,5,50,0,0,0,0,0" rotation="0"/>
+        <text x="-30.0711" y="101.889" text="8+" color="#000000" font="Sans Serif,6,-1,5,50,0,0,0,0,0" rotation="0"/>
+        <text x="-29.8867" y="111.591" text="8-" color="#000000" font="Sans Serif,6,-1,5,50,0,0,0,0,0" rotation="0"/>
+        <text x="22.1133" y="81.5912" text="O8" color="#000000" font="Sans Serif,6,-1,5,50,0,0,0,0,0" rotation="0"/>
+        <text x="-30.1844" y="52.0278" text="5-" color="#000000" font="Sans Serif,6,-1,5,50,0,0,0,0,0" rotation="0"/>
+        <text x="21.8156" y="22.0278" text="O2" color="#000000" font="Sans Serif,6,-1,5,50,0,0,0,0,0" rotation="0"/>
+        <text x="2.66667" y="-36.3333" text="5v to 24v" color="#000000" font="Sans Serif,9,-1,5,50,0,0,0,0,0" rotation="0"/>
+        <text x="-10" y="-26" text="Level Shifter" color="#000000" font="Sans Serif,9,-1,5,50,0,0,0,0,0" rotation="0"/>
+        <rect x="-43" y="-45" width="10" style="line-style:normal;line-weight:normal;filling:none;color:black" height="160" rx="0" antialias="false" ry="0"/>
+        <rect x="33" y="-15" width="10" style="line-style:normal;line-weight:normal;filling:none;color:black" height="100" rx="0" antialias="false" ry="0"/>
+        <line length2="1.5" style="line-style:normal;line-weight:normal;filling:none;color:black" x1="-43" length1="1.5" end2="none" y1="-25.3333" x2="-33" y2="-25.3333" antialias="false" end1="none"/>
+        <polygon x3="0" y4="56.6667" y5="36.6667" y6="16.6667" x7="0" style="line-style:normal;line-weight:normal;filling:gray;color:black" x4="0" x1="-10" x6="0" x5="10" y1="26.6667" x2="-10" y2="46.6667" antialias="false" y3="46.6667" y7="26.6667"/>
+        <dynamic_text x="-40" text_width="-1" Valignment="AlignTop" y="-70" text_from="ElementInfo" uuid="{2f0ee721-8e29-4b5c-bccf-61c5b4e64b50}" z="41" frame="false" font="Sans Serif,9,-1,5,0,0,0,0,0,0,normal" Halignment="AlignLeft" rotation="0">
+            <text></text>
+            <info_name>label</info_name>
+        </dynamic_text>
+        <terminal x="-40" y="90" orientation="w"/>
+        <terminal x="-40" y="50" orientation="w"/>
+        <terminal x="40" y="50" orientation="e"/>
+        <terminal x="-40" y="20" orientation="w"/>
+        <terminal x="-40" y="0" orientation="w"/>
+        <terminal x="40" y="40" orientation="e"/>
+        <terminal x="-40" y="-20" orientation="w"/>
+        <terminal x="-40" y="70" orientation="w"/>
+        <terminal x="40" y="70" orientation="e"/>
+        <terminal x="-40" y="10" orientation="w"/>
+        <terminal x="-40" y="-40" orientation="w"/>
+        <terminal x="-40" y="30" orientation="w"/>
+        <terminal x="40" y="30" orientation="e"/>
+        <terminal x="40" y="-10" orientation="e"/>
+        <terminal x="-40" y="-10" orientation="w"/>
+        <terminal x="40" y="10" orientation="e"/>
+        <terminal x="-40" y="110" orientation="w"/>
+        <terminal x="40" y="60" orientation="e"/>
+        <terminal x="40" y="80" orientation="e"/>
+        <terminal x="-40" y="-30" orientation="w"/>
+        <terminal x="40" y="20" orientation="e"/>
+        <terminal x="40" y="0" orientation="e"/>
+        <terminal x="-40" y="100" orientation="w"/>
+        <terminal x="-40" y="80" orientation="w"/>
+        <terminal x="-40" y="60" orientation="w"/>
+        <terminal x="-40" y="40" orientation="w"/>
+    </description>
+</definition>

@@ -1,0 +1,38 @@
+<definition type="element" height="30" width="30" version="0.70" link_type="simple" hotspot_y="15" hotspot_x="14" orientation="dyyy">
+    <uuid uuid="{4959d7bf-1d89-4d5f-978a-5236fdf9547b}"/>
+    <names>
+        <name lang="cs">Rozdělovač</name>
+        <name lang="nl">Verdeler</name>
+        <name lang="ar">مُوزّع</name>
+        <name lang="it">Ripartitore</name>
+        <name lang="es">Distribuidor 2p</name>
+        <name lang="en">Distributor 2p</name>
+        <name lang="de">Verteiler</name>
+        <name lang="fr">Répartiteur</name>
+        <name lang="pl">Łączówka</name>
+    </names>
+    <elementInformations/>
+    <informations>Author: The QElectroTech team
+License: see http://qelectrotech.org/wiki/doc/elements_license</informations>
+    <description>
+        <rect height="12" x="-11.4121" width="23" antialias="false" ry="0" style="line-style:normal;line-weight:thin;filling:none;color:black" y="-5.91759" rx="0"/>
+        <text x="0" text="2" font="Sans Serif,7,-1,5,50,0,0,0,0,0" color="#000000" rotation="0" y="-4"/>
+        <dynamic_text uuid="{e2f74d9e-4f6c-4eb4-b442-67b98cd8560b}" text_width="-1" x="22" frame="false" font="Sans Serif,9,-1,5,50,0,0,0,0,0" Valignment="AlignTop" rotation="0" Halignment="AlignLeft" z="2" y="-9" text_from="ElementInfo">
+            <text></text>
+            <info_name>label</info_name>
+        </dynamic_text>
+        <circle diameter="1" x="4.5" antialias="true" style="line-style:normal;line-weight:normal;filling:none;color:black" y="-0.5"/>
+        <circle diameter="5" x="-7.5" antialias="true" style="line-style:normal;line-weight:normal;filling:none;color:black" y="-2.5"/>
+        <circle diameter="1" x="-5.5" antialias="true" style="line-style:normal;line-weight:normal;filling:none;color:black" y="-0.5"/>
+        <line x1="5" length1="1.5" y2="3" y1="10" antialias="false" end1="none" length2="1.5" style="line-style:normal;line-weight:normal;filling:none;color:black" x2="5" end2="none"/>
+        <line x1="-5" length1="1.5" y2="3" y1="10" antialias="false" end1="none" length2="1.5" style="line-style:normal;line-weight:normal;filling:none;color:black" x2="-5" end2="none"/>
+        <line x1="5" length1="1.5" y2="-3" y1="-10" antialias="false" end1="none" length2="1.5" style="line-style:normal;line-weight:normal;filling:none;color:black" x2="5" end2="none"/>
+        <line x1="-5" length1="1.5" y2="-3" y1="-10" antialias="false" end1="none" length2="1.5" style="line-style:normal;line-weight:normal;filling:none;color:black" x2="-5" end2="none"/>
+        <circle diameter="5" x="2.5" antialias="true" style="line-style:normal;line-weight:normal;filling:none;color:black" y="-2.5"/>
+        <text x="-10" text="1" font="Sans Serif,7,-1,5,50,0,0,0,0,0" color="#000000" rotation="0" y="-4"/>
+        <terminal x="-5" y="-10" orientation="n"/>
+        <terminal x="-5" y="10" orientation="s"/>
+        <terminal x="5" y="-10" orientation="n"/>
+        <terminal x="5" y="10" orientation="s"/>
+    </description>
+</definition>

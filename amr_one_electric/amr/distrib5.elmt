@@ -1,0 +1,70 @@
+<definition height="30" type="element" width="60" hotspot_y="15" hotspot_x="30" orientation="dyyy" link_type="simple" version="0.70">
+    <uuid uuid="{56590f7e-c85c-4abe-970e-e56183a803a2}"/>
+    <names>
+        <name lang="cs">Rozdělovač</name>
+        <name lang="ar">مُوزّع</name>
+        <name lang="de">Verteiler</name>
+        <name lang="en">Distributor 5p</name>
+        <name lang="it">Ripartitore</name>
+        <name lang="nl">Verdeler</name>
+        <name lang="es">Distribuidor 5p</name>
+        <name lang="pl">Łączówka</name>
+        <name lang="fr">Répartiteur</name>
+    </names>
+    <elementInformations>
+        <elementInformation show="1" name="comment"></elementInformation>
+        <elementInformation show="1" name="label"></elementInformation>
+        <elementInformation show="1" name="description"></elementInformation>
+        <elementInformation show="1" name="designation"></elementInformation>
+        <elementInformation show="1" name="unity"></elementInformation>
+        <elementInformation show="1" name="quantity"></elementInformation>
+        <elementInformation show="1" name="plant"></elementInformation>
+        <elementInformation show="1" name="manufacturer-reference"></elementInformation>
+        <elementInformation show="1" name="machine-manufacturer-reference"></elementInformation>
+        <elementInformation show="1" name="supplier"></elementInformation>
+        <elementInformation show="1" name="manufacturer"></elementInformation>
+    </elementInformations>
+    <informations>Author: The QElectroTech team
+License: see http://qelectrotech.org/wiki/doc/elements_license</informations>
+    <description>
+        <rect x="-26" y="-6" height="12" width="52" antialias="false" ry="0" rx="0" style="line-style:normal;line-weight:thin;filling:none;color:black"/>
+        <circle x="19.5" y="-0.5" antialias="true" diameter="1" style="line-style:normal;line-weight:normal;filling:none;color:black"/>
+        <line end1="none" x1="20" antialias="false" y1="10" x2="20" length2="1.5" end2="none" y2="3" length1="1.5" style="line-style:normal;line-weight:normal;filling:none;color:black"/>
+        <circle x="9.5" y="-0.5" antialias="true" diameter="1" style="line-style:normal;line-weight:normal;filling:none;color:black"/>
+        <line end1="none" x1="20" antialias="false" y1="-10" x2="20" length2="1.5" end2="none" y2="-3" length1="1.5" style="line-style:normal;line-weight:normal;filling:none;color:black"/>
+        <circle x="-0.5" y="-0.5" antialias="true" diameter="1" style="line-style:normal;line-weight:normal;filling:none;color:black"/>
+        <circle x="-10.5" y="-0.5" antialias="true" diameter="1" style="line-style:normal;line-weight:normal;filling:none;color:black"/>
+        <circle x="17.5" y="-2.5" antialias="true" diameter="5" style="line-style:normal;line-weight:normal;filling:none;color:black"/>
+        <circle x="-22.5" y="-2.5" antialias="true" diameter="5" style="line-style:normal;line-weight:normal;filling:none;color:black"/>
+        <circle x="-20.5" y="-0.5" antialias="true" diameter="1" style="line-style:normal;line-weight:normal;filling:none;color:black"/>
+        <line end1="none" x1="10" antialias="false" y1="10" x2="10" length2="1.5" end2="none" y2="3" length1="1.5" style="line-style:normal;line-weight:normal;filling:none;color:black"/>
+        <line end1="none" x1="0" antialias="false" y1="10" x2="0" length2="1.5" end2="none" y2="3" length1="1.5" style="line-style:normal;line-weight:normal;filling:none;color:black"/>
+        <line end1="none" x1="-10" antialias="false" y1="10" x2="-10" length2="1.5" end2="none" y2="3" length1="1.5" style="line-style:normal;line-weight:normal;filling:none;color:black"/>
+        <line end1="none" x1="-20" antialias="false" y1="10" x2="-20" length2="1.5" end2="none" y2="3" length1="1.5" style="line-style:normal;line-weight:normal;filling:none;color:black"/>
+        <line end1="none" x1="10" antialias="false" y1="-10" x2="10" length2="1.5" end2="none" y2="-3" length1="1.5" style="line-style:normal;line-weight:normal;filling:none;color:black"/>
+        <line end1="none" x1="0" antialias="false" y1="-10" x2="0" length2="1.5" end2="none" y2="-3" length1="1.5" style="line-style:normal;line-weight:normal;filling:none;color:black"/>
+        <line end1="none" x1="-10" antialias="false" y1="-10" x2="-10" length2="1.5" end2="none" y2="-3" length1="1.5" style="line-style:normal;line-weight:normal;filling:none;color:black"/>
+        <line end1="none" x1="-20" antialias="false" y1="-10" x2="-20" length2="1.5" end2="none" y2="-3" length1="1.5" style="line-style:normal;line-weight:normal;filling:none;color:black"/>
+        <circle x="7.5" y="-2.5" antialias="true" diameter="5" style="line-style:normal;line-weight:normal;filling:none;color:black"/>
+        <circle x="-2.5" y="-2.5" antialias="true" diameter="5" style="line-style:normal;line-weight:normal;filling:none;color:black"/>
+        <circle x="-12.5" y="-2.5" antialias="true" diameter="5" style="line-style:normal;line-weight:normal;filling:none;color:black"/>
+        <dynamic_text x="24" y="-13" uuid="{c8555800-48df-4eb1-91fb-3cd2fb35ba40}" text_width="-1" Halignment="AlignLeft" font="Sans Serif,9,-1,5,0,0,0,0,0,0,normal" frame="false" text_from="UserText" z="22" rotation="0" Valignment="AlignTop">
+            <text></text>
+        </dynamic_text>
+        <text x="-15" y="-4" font="Sans Serif,7,-1,5,50,0,0,0,0,0" text="2" color="#000000" rotation="0"/>
+        <text x="-26" y="-4" font="Sans Serif,7,-1,5,50,0,0,0,0,0" text="1" color="#000000" rotation="0"/>
+        <text x="-5" y="-4" font="Sans Serif,7,-1,5,50,0,0,0,0,0" text="3" color="#000000" rotation="0"/>
+        <text x="5" y="-4" font="Sans Serif,7,-1,5,50,0,0,0,0,0" text="4" color="#000000" rotation="0"/>
+        <text x="15" y="-4" font="Sans Serif,7,-1,5,50,0,0,0,0,0" text="5" color="#000000" rotation="0"/>
+        <terminal x="20" y="-10" orientation="n"/>
+        <terminal x="10" y="-10" orientation="n"/>
+        <terminal x="-10" y="10" orientation="s"/>
+        <terminal x="-20" y="10" orientation="s"/>
+        <terminal x="-10" y="-10" orientation="n"/>
+        <terminal x="10" y="10" orientation="s"/>
+        <terminal x="0" y="10" orientation="s"/>
+        <terminal x="0" y="-10" orientation="n"/>
+        <terminal x="20" y="10" orientation="s"/>
+        <terminal x="-20" y="-10" orientation="n"/>
+    </description>
+</definition>

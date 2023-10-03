@@ -1,0 +1,28 @@
+<definition hotspot_x="45" hotspot_y="25" width="70" height="90" orientation="dyyy" link_type="simple" type="element" version="0.70">
+    <uuid uuid="{61188fbe-aaf9-43ab-bcc5-270d5f184103}"/>
+    <names>
+        <name lang="en">encoder</name>
+        <name lang="es">encoder</name>
+    </names>
+    <elementInformations/>
+    <informations></informations>
+    <description>
+        <circle y="-20" x="-40" style="line-style:normal;line-weight:normal;filling:lightgray;color:black" antialias="false" diameter="60"/>
+        <dynamic_text Valignment="AlignTop" font="Sans Serif,9,-1,5,0,0,0,0,0,0,normal" rotation="0" frame="false" Halignment="AlignLeft" z="2" y="0" uuid="{15d9290f-87ce-4cc6-a607-d65c3c4d9796}" x="-35" text_from="UserText" text_width="-1">
+            <text>ENCODER</text>
+        </dynamic_text>
+        <text font="Sans Serif,6,-1,5,50,0,0,0,0,0" rotation="0" text="Vcc" y="48.5853" x="-36.1706" color="#000000"/>
+        <text font="Sans Serif,6,-1,5,50,0,0,0,0,0" rotation="0" text="A" y="48.8353" x="-22.2" color="#000000"/>
+        <text font="Sans Serif,6,-1,5,50,0,0,0,0,0" rotation="0" text="B" y="48.689" x="12.9897" color="#000000"/>
+        <text font="Sans Serif,6,-1,5,50,0,0,0,0,0" rotation="0" text="1" y="55.7316" x="-40.2926" color="#000000"/>
+        <text font="Sans Serif,6,-1,5,50,0,0,0,0,0" rotation="0" text="2" y="55.8779" x="-24.8537" color="#000000"/>
+        <text font="Sans Serif,6,-1,5,50,0,0,0,0,0" rotation="0" text="3" y="55.811" x="-5.03529" color="#000000"/>
+        <text font="Sans Serif,6,-1,5,50,0,0,0,0,0" rotation="0" text="4" y="55.8537" x="9.97983" color="#000000"/>
+        <polygon y4="10" x1="-40" y1="10" y2="50" x2="-40" closed="false" x4="20" x3="20" y3="50" style="line-style:normal;line-weight:normal;filling:none;color:black" antialias="false"/>
+        <text font="Sans Serif,6,-1,5,50,0,0,0,0,0" rotation="0" text="GND" y="48.7868" x="-7.28529" color="#000000"/>
+        <terminal y="55" x="15" orientation="s"/>
+        <terminal y="55" x="-20" orientation="s"/>
+        <terminal y="55" x="0" orientation="s"/>
+        <terminal y="55" x="-35" orientation="s"/>
+    </description>
+</definition>

@@ -1,0 +1,36 @@
+<definition width="120" link_type="simple" version="0.70" type="element" hotspot_y="65" hotspot_x="40" height="90" orientation="dyyy">
+    <uuid uuid="{f31c61ab-9970-4480-a4a8-d7632a98b664}"/>
+    <names>
+        <name lang="es">Stop remoto</name>
+        <name lang="en">Remote Stop</name>
+    </names>
+    <elementInformations/>
+    <informations></informations>
+    <description>
+        <rect y="-45.75" width="35" rx="0" antialias="false" ry="0" x="40.25" height="55" style="line-style:normal;line-weight:normal;filling:lightgray;color:black"/>
+        <rect y="-37" width="20" rx="0" antialias="false" ry="0" x="47" height="15" style="line-style:normal;line-weight:normal;filling:black;color:black"/>
+        <rect y="-16.75" width="20" rx="0" antialias="false" ry="0" x="47.25" height="15" style="line-style:normal;line-weight:normal;filling:black;color:black"/>
+        <rect y="-60" width="50" rx="0" antialias="false" ry="0" x="-30" height="80" style="line-style:normal;line-weight:normal;filling:lightgray;color:black"/>
+        <text y="-5.25" text="OFF" color="#ffffff" x="49" rotation="0" font="Sans Serif,9,-1,5,50,0,0,0,0,0"/>
+        <text y="-27.5" text="+" color="#000000" x="-25.25" rotation="0" font="Sans Serif,8,-1,5,50,0,0,0,0,0"/>
+        <text y="5" text="NC" color="#000000" x="-26.25" rotation="0" font="Sans Serif,6,-1,5,50,0,0,0,0,0"/>
+        <text y="-16" text="NO" color="#000000" x="-26.25" rotation="0" font="Sans Serif,6,-1,5,50,0,0,0,0,0"/>
+        <text y="-6" text="COM" color="#000000" x="-26.75" rotation="0" font="Sans Serif,6,-1,5,50,0,0,0,0,0"/>
+        <text y="-38.75" text="IN" color="#000000" x="-7.375" rotation="90" font="Sans Serif,8,-1,5,50,0,0,0,0,0"/>
+        <text y="-17.5" text="OUT" color="#000000" x="-7.75" rotation="90" font="Sans Serif,8,-1,5,50,0,0,0,0,0"/>
+        <text y="-37.5" text="-" color="#000000" x="-24.75" rotation="0" font="Sans Serif,8,-1,5,50,0,0,0,0,0"/>
+        <line end2="none" antialias="false" y2="-30" length1="1.5" y1="-40" end1="none" length2="1.5" x2="-10" x1="-10" style="line-style:normal;line-weight:normal;filling:none;color:black"/>
+        <line end2="none" antialias="false" y2="5" length1="1.5" y1="-25" end1="none" length2="1.5" x2="-10" x1="-10" style="line-style:normal;line-weight:normal;filling:none;color:black"/>
+        <text y="-55" text="Remote Control" color="#0000ff" x="5" rotation="90" font="Sans Serif,9,-1,5,50,0,0,0,0,0"/>
+        <text y="-25.75" text="ON" color="#ffffff" x="50.25" rotation="0" font="Sans Serif,9,-1,5,50,0,0,0,0,0"/>
+        <text y="-10" text="433Mhz" color="#000000" x="25" rotation="90" font="Sans Serif,7,-1,5,50,0,0,0,0,0"/>
+        <line end2="none" antialias="false" y2="-19" length1="1.5" y1="-19" end1="none" length2="1.5" x2="25" x1="35" style="line-style:normal;line-weight:normal;filling:none;color:black"/>
+        <line end2="none" antialias="false" y2="-24" length1="1.5" y1="-19" end1="none" length2="1.5" x2="30" x1="25" style="line-style:normal;line-weight:normal;filling:none;color:black"/>
+        <line end2="none" antialias="false" y2="-14" length1="1.5" y1="-19" end1="none" length2="1.5" x2="30" x1="25" style="line-style:normal;line-weight:normal;filling:none;color:black"/>
+        <terminal y="-30" x="-35" orientation="w"/>
+        <terminal y="-40" x="-35" orientation="w"/>
+        <terminal y="-20" x="-35" orientation="w"/>
+        <terminal y="0" x="-35" orientation="w"/>
+        <terminal y="-10" x="-35" orientation="w"/>
+    </description>
+</definition>

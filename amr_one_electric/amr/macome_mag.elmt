@@ -1,0 +1,27 @@
+<definition hotspot_x="95" height="70" version="0.70" link_type="simple" width="190" hotspot_y="16" type="element" orientation="dyyy">
+    <uuid uuid="{b0918d73-3e76-469e-bf35-b6ab40a5f06f}"/>
+    <names>
+        <name lang="es">Macome Sensor Sensor guiado magnetico</name>
+        <name lang="en">Macome Mag guide sensor</name>
+    </names>
+    <elementInformations/>
+    <informations></informations>
+    <description>
+        <text x="-35" y="0" color="#000000" font="Sans Serif,6,-1,5,50,0,0,0,0,0" rotation="90" text="VCC"/>
+        <text x="-25" y="0" color="#000000" font="Sans Serif,6,-1,5,50,0,0,0,0,0" rotation="90" text="GND"/>
+        <text x="-1.90625" y="-0.140625" color="#000000" font="Sans Serif,6,-1,5,50,0,0,0,0,0" rotation="90" text="Sel1 IN"/>
+        <text x="8.3125" y="0" color="#000000" font="Sans Serif,6,-1,5,50,0,0,0,0,0" rotation="90" text="Sel2 IN"/>
+        <text x="15.3438" y="-0.34375" color="#000000" font="Sans Serif,6,-1,5,50,0,0,0,0,0" rotation="90" text="Deviation OUT"/>
+        <text x="25.1875" y="-0.328125" color="#000000" font="Sans Serif,6,-1,5,50,0,0,0,0,0" rotation="90" text="Gate OUT"/>
+        <text x="-15" y="0" color="#000000" font="Sans Serif,6,-1,5,50,0,0,0,0,0" rotation="90" text="Shield"/>
+        <rect rx="0" x="-90" y="-5" style="line-style:normal;line-weight:normal;filling:none;color:black" height="55" width="180" ry="0" antialias="false"/>
+        <text x="-85" y="45" color="#000000" font="Sans Serif,9,-1,5,50,0,0,0,0,0" rotation="0" text="Macome GS4484"/>
+        <terminal x="10" y="-10" orientation="n"/>
+        <terminal x="-30" y="-10" orientation="n"/>
+        <terminal x="0" y="-10" orientation="n"/>
+        <terminal x="30" y="-10" orientation="n"/>
+        <terminal x="-10" y="-10" orientation="n"/>
+        <terminal x="20" y="-10" orientation="n"/>
+        <terminal x="-20" y="-10" orientation="n"/>
+    </description>
+</definition>

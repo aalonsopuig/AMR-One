@@ -1,0 +1,22 @@
+<definition hotspot_y="35" hotspot_x="59" type="element" width="120" version="0.70" orientation="dyyy" height="70" link_type="simple">
+    <uuid uuid="{695e9672-8abd-4ba5-8514-0e6140328890}"/>
+    <names>
+        <name lang="es">usb&lt;->serial (FTDI)</name>
+        <name lang="en">usb&lt;->serial (FTDI)</name>
+    </names>
+    <elementInformations/>
+    <informations></informations>
+    <description>
+        <rect y="-30" x="-50" rx="0" width="100" antialias="false" style="line-style:normal;line-weight:normal;filling:none;color:black" height="60" ry="0"/>
+        <text y="-1.25" font="Sans Serif,7,-1,5,50,0,0,0,0,0" x="-28.25" text="USB - Serial TTL" color="#0000ff" rotation="0"/>
+        <text y="5.75" font="Sans Serif,5,-1,5,50,0,0,0,0,0" x="41.2031" text="Rx" color="#000000" rotation="0"/>
+        <text y="6.25" font="Sans Serif,5,-1,5,50,0,0,0,0,0" x="-48.0469" text="USB" color="#000000" rotation="0"/>
+        <text y="25.75" font="Sans Serif,5,-1,5,50,0,0,0,0,0" x="37.9063" text="Gnd" color="#000000" rotation="0"/>
+        <text y="7" font="Sans Serif,7,-1,5,50,0,0,0,0,0" x="-7.75" text="FTDI" color="#0000ff" rotation="0"/>
+        <text y="-14" font="Sans Serif,5,-1,5,50,0,0,0,0,0" x="41.5" text="Tx" color="#000000" rotation="0"/>
+        <terminal y="20" x="55" orientation="e"/>
+        <terminal y="0" x="-55" orientation="w"/>
+        <terminal y="0" x="55" orientation="e"/>
+        <terminal y="-20" x="55" orientation="e"/>
+    </description>
+</definition>

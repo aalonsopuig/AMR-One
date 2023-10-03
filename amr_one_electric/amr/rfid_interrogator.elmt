@@ -1,0 +1,44 @@
+<definition hotspot_x="73" hotspot_y="85" width="150" height="190" orientation="dyyy" link_type="simple" type="element" version="0.70">
+    <uuid uuid="{a466d2f6-b43f-401e-8d1c-449202c26bc4}"/>
+    <names>
+        <name lang="en">RFID Interrogator</name>
+        <name lang="es">RFID Interrogator</name>
+    </names>
+    <elementInformations/>
+    <informations></informations>
+    <description>
+        <text font="Sans Serif,6,-1,5,50,0,0,0,0,0" rotation="0" text="14. Sensor 1" y="80" x="-50" color="#000000"/>
+        <text font="Sans Serif,6,-1,5,50,0,0,0,0,0" rotation="0" text="6. RD+ (RS-422/485)" y="0" x="-50" color="#000000"/>
+        <text font="Sans Serif,6,-1,5,50,0,0,0,0,0" rotation="0" text="8. TD+ (RS-422/485)" y="20" x="-50" color="#000000"/>
+        <text font="Sans Serif,6,-1,5,50,0,0,0,0,0" rotation="0" text="2. RxD (Aux)" y="-40" x="-50" color="#000000"/>
+        <text font="Sans Serif,6,-1,5,50,0,0,0,0,0" rotation="0" text="5. GND" y="-10" x="-50" color="#000000"/>
+        <text font="Sans Serif,6,-1,5,50,0,0,0,0,0" rotation="0" text="15. SensGND" y="90" x="-50" color="#000000"/>
+        <text font="Sans Serif,6,-1,5,50,0,0,0,0,0" rotation="0" text="9. TD– (RS-422/485); TxD (RS-232)" y="30" x="-50" color="#000000"/>
+        <text font="Sans Serif,6,-1,5,50,0,0,0,0,0" rotation="0" text="1. Vcc" y="-50" x="-50" color="#000000"/>
+        <text font="Sans Serif,6,-1,5,50,0,0,0,0,0" rotation="0" text="11. CAN L" y="50" x="-50" color="#000000"/>
+        <text font="Sans Serif,6,-1,5,50,0,0,0,0,0" rotation="0" text="10. CAN H" y="40" x="-50" color="#000000"/>
+        <text font="Sans Serif,6,-1,5,50,0,0,0,0,0" rotation="0" text="7. RD– (RS-422/485); RxD (RS-232)" y="10" x="-50" color="#000000"/>
+        <text font="Sans Serif,6,-1,5,50,0,0,0,0,0" rotation="0" text="12. Result 1" y="60" x="-50" color="#000000"/>
+        <text font="Sans Serif,6,-1,5,50,0,0,0,0,0" rotation="0" text="13. Result 2" y="70" x="-50" color="#000000"/>
+        <text font="Sans Serif,6,-1,5,50,0,0,0,0,0" rotation="0" text="4. Sensor 2" y="-20" x="-50" color="#000000"/>
+        <text font="Sans Serif,6,-1,5,50,0,0,0,0,0" rotation="0" text="3. TxD (Aux)" y="-30" x="-50" color="#000000"/>
+        <rect rx="0" width="130" y="-80" x="-60" height="180" ry="0" style="line-style:normal;line-weight:normal;filling:none;color:black" antialias="false"/>
+        <text font="Sans Serif,9,-1,5,50,0,0,0,0,0" rotation="0" text="RFH620 Interrogator" y="-70" x="-30" color="#000000"/>
+        <text font="Sans Serif,9,-1,5,50,0,0,0,0,0" rotation="0" text="SICK" y="-60" x="40" color="#000000"/>
+        <terminal y="0" x="-65" orientation="w"/>
+        <terminal y="-20" x="-65" orientation="w"/>
+        <terminal y="-50" x="-65" orientation="w"/>
+        <terminal y="80" x="-65" orientation="w"/>
+        <terminal y="70" x="-65" orientation="w"/>
+        <terminal y="-10" x="-65" orientation="w"/>
+        <terminal y="50" x="-65" orientation="w"/>
+        <terminal y="90" x="-65" orientation="w"/>
+        <terminal y="10" x="-65" orientation="w"/>
+        <terminal y="60" x="-65" orientation="w"/>
+        <terminal y="30" x="-65" orientation="w"/>
+        <terminal y="20" x="-65" orientation="w"/>
+        <terminal y="-40" x="-65" orientation="w"/>
+        <terminal y="40" x="-65" orientation="w"/>
+        <terminal y="-30" x="-65" orientation="w"/>
+    </description>
+</definition>

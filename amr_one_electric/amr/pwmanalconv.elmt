@@ -1,0 +1,56 @@
+<definition orientation="dyyy" height="90" hotspot_y="40" version="0.70" width="140" hotspot_x="20" link_type="simple" type="element">
+    <uuid uuid="{8eaa5a49-1c1a-4971-8e0d-420917b76719}"/>
+    <names>
+        <name lang="en">PWM to Analog Converter</name>
+        <name lang="es">PWM to Analog Converter</name>
+    </names>
+    <elementInformations/>
+    <informations></informations>
+    <description>
+        <circle antialias="false" style="line-style:normal;line-weight:normal;filling:none;color:gray" diameter="6" y="-23" x="103"/>
+        <circle antialias="false" style="line-style:normal;line-weight:normal;filling:none;color:gray" diameter="6" y="-23" x="-9"/>
+        <circle antialias="false" style="line-style:normal;line-weight:normal;filling:none;color:gray" diameter="6" y="27" x="-9"/>
+        <circle antialias="false" style="line-style:normal;line-weight:normal;filling:none;color:gray" diameter="6" y="-3" x="-9"/>
+        <circle antialias="false" style="line-style:normal;line-weight:normal;filling:none;color:gray" diameter="6" y="7" x="-9"/>
+        <circle antialias="false" style="line-style:normal;line-weight:normal;filling:none;color:gray" diameter="6" y="17" x="-9"/>
+        <circle antialias="false" style="line-style:normal;line-weight:normal;filling:none;color:gray" diameter="6" y="-13" x="-9"/>
+        <text font="Sans Serif,5,-1,5,50,0,0,0,0,0" color="#000000" rotation="0" text="+PWM" y="-8" x="1"/>
+        <text font="Sans Serif,9,-1,5,50,0,0,0,0,0" color="#000000" rotation="90" text="PORT 2" y="-10" x="74"/>
+        <text font="Sans Serif,5,-1,5,50,0,0,0,0,0" color="#000000" rotation="0" text="-AN" y="23" x="2"/>
+        <text font="Sans Serif,5,-1,5,50,0,0,0,0,0" color="#000000" rotation="0" text="+V" y="3" x="1"/>
+        <text font="Sans Serif,5,-1,5,50,0,0,0,0,0" color="#000000" rotation="0" text="+PWM" y="22" x="83"/>
+        <text font="Sans Serif,5,-1,5,50,0,0,0,0,0" color="#000000" rotation="0" text="GND" y="13" x="2"/>
+        <text font="Sans Serif,5,-1,5,50,0,0,0,0,0" color="#000000" rotation="0" text="+AN" y="33" x="1"/>
+        <circle antialias="false" style="line-style:normal;line-weight:normal;filling:none;color:gray" diameter="6" y="27" x="103"/>
+        <rect ry="0" antialias="false" height="62" width="12" style="line-style:normal;line-weight:normal;filling:none;color:gray" y="-26" x="-12" rx="0"/>
+        <text font="Sans Serif,5,-1,5,50,0,0,0,0,0" color="#000000" rotation="0" text="-AN" y="-8" x="88"/>
+        <circle antialias="false" style="line-style:normal;line-weight:normal;filling:none;color:gray" diameter="6" y="-3" x="103"/>
+        <text font="Sans Serif,5,-1,5,50,0,0,0,0,0" color="#000000" rotation="0" text="-PWM" y="-18" x="2"/>
+        <text font="Sans Serif,5,-1,5,50,0,0,0,0,0" color="#000000" rotation="0" text="+V" y="12" x="90"/>
+        <circle antialias="false" style="line-style:normal;line-weight:normal;filling:none;color:gray" diameter="6" y="7" x="103"/>
+        <text font="Sans Serif,5,-1,5,50,0,0,0,0,0" color="#000000" rotation="0" text="GND" y="2" x="87"/>
+        <circle antialias="false" style="line-style:normal;line-weight:normal;filling:none;color:gray" diameter="6" y="17" x="103"/>
+        <text font="Sans Serif,5,-1,5,50,0,0,0,0,0" color="#000000" rotation="0" text="+AN" y="-18" x="87"/>
+        <circle antialias="false" style="line-style:normal;line-weight:normal;filling:none;color:gray" diameter="6" y="-13" x="103"/>
+        <text font="Sans Serif,5,-1,5,50,0,0,0,0,0" color="#000000" rotation="0" text="-PWM" y="32" x="84"/>
+        <rect ry="0" antialias="false" height="62" width="12" style="line-style:normal;line-weight:normal;filling:none;color:gray" y="-26" x="100" rx="0"/>
+        <text font="Sans Serif,9,-1,5,50,0,0,0,0,0" color="#000000" rotation="90" text="PORT 1" y="-10" x="18"/>
+        <text font="Sans Serif,9,-1,5,50,0,0,0,0,0" color="#000000" rotation="0" text="PWM to Analog" y="-25" x="20"/>
+        <rect ry="0" antialias="false" height="80" width="130" style="line-style:normal;line-weight:normal;filling:none;color:black" y="-35" x="-15" rx="0"/>
+        <dynamic_text font="Sans Serif,9,-1,5,0,0,0,0,0,0,normal" rotation="0" text_from="UserText" uuid="{11e102af-96d7-456e-a04b-382fd2c71127}" text_width="-1" frame="false" Valignment="AlignTop" y="48" Halignment="AlignLeft" x="40" z="31">
+            <text></text>
+        </dynamic_text>
+        <terminal orientation="e" y="-20" x="110"/>
+        <terminal orientation="e" y="-10" x="110"/>
+        <terminal orientation="e" y="20" x="110"/>
+        <terminal orientation="w" y="10" x="-10"/>
+        <terminal orientation="e" y="10" x="110"/>
+        <terminal orientation="w" y="0" x="-10"/>
+        <terminal orientation="w" y="-20" x="-10"/>
+        <terminal orientation="e" y="0" x="110"/>
+        <terminal orientation="e" y="30" x="110"/>
+        <terminal orientation="w" y="-10" x="-10"/>
+        <terminal orientation="w" y="20" x="-10"/>
+        <terminal orientation="w" y="30" x="-10"/>
+    </description>
+</definition>

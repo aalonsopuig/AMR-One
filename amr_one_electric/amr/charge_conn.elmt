@@ -1,0 +1,37 @@
+<definition height="60" type="element" width="70" hotspot_y="23" hotspot_x="34" orientation="dyyy" link_type="simple" version="0.70">
+    <uuid uuid="{c0e80083-9832-4e73-8f7f-63c211c64286}"/>
+    <names>
+        <name lang="cs">Kulatá zástrčka DIN 3 kolíky 180 stupňů</name>
+        <name lang="ar">قاعدة توصيل ب3  أطراف 180 درجة </name>
+        <name lang="de">Rundstecker 3-polig 180°</name>
+        <name lang="it">DIN 3 Pin 180°</name>
+        <name lang="en">3-pin DIN socket 180 degrees</name>
+        <name lang="nl">DIN 3 Pin 180°</name>
+        <name lang="es">Socket DIN de 3 pines a 180 grados</name>
+        <name lang="pl">Złącze DIN, trójstykowe</name>
+        <name lang="fr">Embase DIN 3 broches 180 degrés</name>
+    </names>
+    <elementInformations/>
+    <informations>Author: The QElectroTech team
+License: see http://qelectrotech.org/wiki/doc/elements_license</informations>
+    <description>
+        <arc x="-20" y="-20" height="40" start="84" width="40" antialias="true" angle="-348" style="line-style:normal;line-weight:normal;filling:none;color:black"/>
+        <dynamic_text x="18" y="6.05" uuid="{0767cae0-0113-4086-b6a7-b051c46c1a73}" text_width="-1" Halignment="AlignLeft" font="Sans Serif,9,-1,5,50,0,0,0,0,0" frame="false" text_from="ElementInfo" z="2" rotation="0" Valignment="AlignTop">
+            <text></text>
+            <info_name>label</info_name>
+        </dynamic_text>
+        <text x="1" y="30" font="Sans Serif,4,-1,5,50,0,0,0,0,0" text="3" color="#000000" rotation="0"/>
+        <text x="23" y="-1" font="Sans Serif,4,-1,5,50,0,0,0,0,0" text="2" color="#000000" rotation="0"/>
+        <text x="-25" y="-1" font="Sans Serif,4,-1,5,50,0,0,0,0,0" text="1" color="#000000" rotation="0"/>
+        <line end1="none" x1="0" antialias="false" y1="30" x2="0" length2="1.5" end2="none" y2="18" length1="1.5" style="line-style:normal;line-weight:normal;filling:none;color:black"/>
+        <line end1="none" x1="-18" antialias="false" y1="0" x2="-25" length2="1.5" end2="none" y2="0" length1="1.5" style="line-style:normal;line-weight:normal;filling:none;color:black"/>
+        <circle x="-2.5" y="12.5" antialias="true" diameter="5" style="line-style:normal;line-weight:normal;filling:none;color:black"/>
+        <polygon x4="2" closed="false" x3="2" x1="-2" y3="-16" antialias="false" y1="-20" x2="-2" y4="-20" y2="-16" style="line-style:normal;line-weight:normal;filling:none;color:black"/>
+        <line end1="none" x1="25" antialias="false" y1="0" x2="18" length2="1.5" end2="none" y2="0" length1="1.5" style="line-style:normal;line-weight:normal;filling:none;color:black"/>
+        <circle x="-17.5" y="-2.5" antialias="true" diameter="5" style="line-style:normal;line-weight:normal;filling:none;color:black"/>
+        <circle x="12.5" y="-2.5" antialias="true" diameter="5" style="line-style:normal;line-weight:normal;filling:none;color:black"/>
+        <terminal x="-26" y="0" orientation="w"/>
+        <terminal x="26" y="0" orientation="e"/>
+        <terminal x="0" y="31" orientation="s"/>
+    </description>
+</definition>

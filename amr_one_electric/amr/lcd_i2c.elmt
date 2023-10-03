@@ -1,0 +1,41 @@
+<definition hotspot_x="24" hotspot_y="30" width="260" height="120" link_type="simple" orientation="dyyy" type="element" version="0.70">
+    <uuid uuid="{cd9c3a14-7546-4e27-a1f8-0c30d3b7c4b6}"/>
+    <names>
+        <name lang="cs">LCD 4X16</name>
+        <name lang="nl">LCD 4X16</name>
+        <name lang="it">LCD 4X16</name>
+        <name lang="en">LCD 4X16</name>
+        <name lang="pl">LCD 4X16</name>
+        <name lang="fr">LCD 4X16</name>
+    </names>
+    <elementInformations/>
+    <informations>ezza</informations>
+    <description>
+        <circle x="223" diameter="6" y="78" style="line-style:normal;line-weight:normal;filling:none;color:black" antialias="true"/>
+        <circle x="-18" diameter="6" y="79" style="line-style:normal;line-weight:normal;filling:none;color:black" antialias="true"/>
+        <circle x="223" diameter="6" y="-24" style="line-style:normal;line-weight:normal;filling:none;color:black" antialias="true"/>
+        <rect x="-18" y="40" width="6" style="line-style:normal;line-weight:normal;filling:none;color:black" height="6" rx="0" antialias="false" ry="0"/>
+        <rect x="-18" y="30" width="6" style="line-style:normal;line-weight:normal;filling:none;color:black" height="6" rx="0" antialias="false" ry="0"/>
+        <rect x="-18" y="10" width="6" style="line-style:normal;line-weight:normal;filling:none;color:black" height="6" rx="0" antialias="false" ry="0"/>
+        <rect x="-18" y="20" width="6" style="line-style:normal;line-weight:normal;filling:none;color:black" height="6" rx="0" antialias="false" ry="0"/>
+        <rect x="-21" y="-27" width="253" style="line-style:normal;line-weight:normal;filling:none;color:black" height="114" rx="0" antialias="false" ry="0"/>
+        <rect x="-10" y="-9" width="230" style="line-style:normal;line-weight:normal;filling:gray;color:black" height="82" rx="0" antialias="false" ry="0"/>
+        <line length2="1.5" style="line-style:dashed;line-weight:thin;filling:none;color:black" x1="-6" length1="1.5" end2="none" y1="-4" x2="214" y2="-4" antialias="false" end1="none"/>
+        <line length2="1.5" style="line-style:dashed;line-weight:thin;filling:none;color:black" x1="-5" length1="1.5" end2="none" y1="70" x2="214" y2="70" antialias="false" end1="none"/>
+        <rect x="-3" y="3" width="215" style="line-style:normal;line-weight:normal;filling:white;color:black" height="62" rx="0" antialias="false" ry="0"/>
+        <circle x="-19" diameter="6" y="-24" style="line-style:normal;line-weight:normal;filling:none;color:black" antialias="true"/>
+        <text x="-1.961" y="46.5391" text="GND" color="#000000" font="Sans Serif,8,-1,5,50,0,0,0,0,0" rotation="0"/>
+        <dynamic_text x="-20" text_width="-1" Valignment="AlignTop" y="-59.5" text_from="ElementInfo" uuid="{45487e70-eb07-4128-a668-67bcfa7508c4}" z="15" frame="false" font="Sans Serif,9,-1,5,50,0,0,0,0,0" Halignment="AlignLeft" rotation="0">
+            <text></text>
+            <info_name>label</info_name>
+        </dynamic_text>
+        <text x="-1.46617" y="36.5964" text="SDA" color="#000000" font="Sans Serif,8,-1,5,50,0,0,0,0,0" rotation="0"/>
+        <text x="-1.53217" y="26.5109" text="SCL" color="#000000" font="Sans Serif,8,-1,5,50,0,0,0,0,0" rotation="0"/>
+        <text x="-2.7943" y="15.7241" text="+5v" color="#000000" font="Sans Serif,8,-1,5,50,0,0,0,0,0" rotation="0"/>
+        <text x="70" y="40" text="LCD 4x16" color="#000000" font="Sans Serif,14,-1,5,50,0,0,0,0,0" rotation="0"/>
+        <terminal x="-16.1225" y="43.1459" orientation="w"/>
+        <terminal x="-16.1783" y="23.1157" orientation="w"/>
+        <terminal x="-16.1011" y="13.0306" orientation="w"/>
+        <terminal x="-16.0453" y="33.0958" orientation="w"/>
+    </description>
+</definition>

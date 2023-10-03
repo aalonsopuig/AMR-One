@@ -1,0 +1,27 @@
+<definition hotspot_y="39" hotspot_x="54" type="element" width="110" version="0.70" orientation="dyyy" height="80" link_type="simple">
+    <uuid uuid="{91e3196e-2171-4e43-979b-48766583bc0b}"/>
+    <names>
+        <name lang="es">USB/RS422/485 Conversor</name>
+        <name lang="en">USB/RS422/485 Converter</name>
+    </names>
+    <elementInformations/>
+    <informations></informations>
+    <description>
+        <rect y="-35" x="-45" rx="0" width="90" antialias="false" style="line-style:normal;line-weight:normal;filling:none;color:black" height="70" ry="0"/>
+        <text y="-12.9375" font="Sans Serif,5,-1,5,50,0,0,0,0,0" x="31.3125" text="GND" color="#000000" rotation="0"/>
+        <text y="-2.9375" font="Sans Serif,5,-1,5,50,0,0,0,0,0" x="33" text="RX-" color="#000000" rotation="0"/>
+        <text y="16.6875" font="Sans Serif,5,-1,5,50,0,0,0,0,0" x="32.0625" text="TX+" color="#000000" rotation="0"/>
+        <text y="27" font="Sans Serif,5,-1,5,50,0,0,0,0,0" x="32.8125" text="TX-" color="#000000" rotation="0"/>
+        <text y="6.5" font="Sans Serif,5,-1,5,50,0,0,0,0,0" x="32.25" text="RX+" color="#000000" rotation="0"/>
+        <text y="2.3125" font="Sans Serif,5,-1,5,50,0,0,0,0,0" x="-43.125" text="USB" color="#000000" rotation="0"/>
+        <text y="32.625" font="Sans Serif,6,-1,5,50,0,0,0,0,0" x="-42.9375" text="USB/RS422/RS485 Converter" color="#0000ff" rotation="0"/>
+        <text y="-22.8125" font="Sans Serif,5,-1,5,50,0,0,0,0,0" x="27.1875" text="5-12v" color="#000000" rotation="0"/>
+        <terminal y="5" x="50" orientation="e"/>
+        <terminal y="15" x="50" orientation="e"/>
+        <terminal y="0" x="-50" orientation="w"/>
+        <terminal y="25" x="50" orientation="e"/>
+        <terminal y="-15" x="50" orientation="e"/>
+        <terminal y="-25" x="50" orientation="e"/>
+        <terminal y="-5" x="50" orientation="e"/>
+    </description>
+</definition>

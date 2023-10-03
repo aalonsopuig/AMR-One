@@ -1,0 +1,74 @@
+<definition orientation="dyyy" height="160" hotspot_y="125" version="0.70" width="280" hotspot_x="45" link_type="simple" type="element">
+    <uuid uuid="{02fcb4b2-a8ef-4e94-b3bb-764612d7d9c6}"/>
+    <names>
+        <name lang="en">idrive</name>
+        <name lang="es">idrive</name>
+    </names>
+    <elementInformations/>
+    <informations></informations>
+    <description>
+        <polygon style="line-style:normal;line-weight:normal;filling:none;color:gray" antialias="false" x2="45" x8="-25" x1="-25" y7="15" y4="15" y5="18" x3="45" y1="-5" x4="15" y8="15" y3="15" y2="-5" x7="5" x5="15" x6="5" y6="18"/>
+        <rect ry="0" antialias="false" height="4" width="4" style="line-style:normal;line-weight:normal;filling:none;color:black" y="0" x="-12" rx="0"/>
+        <rect ry="0" antialias="false" height="4" width="4" style="line-style:normal;line-weight:normal;filling:none;color:black" y="6" x="38" rx="0"/>
+        <rect ry="0" antialias="false" height="4" width="4" style="line-style:normal;line-weight:normal;filling:none;color:black" y="6" x="18" rx="0"/>
+        <rect ry="0" antialias="false" height="4" width="4" style="line-style:normal;line-weight:normal;filling:none;color:black" y="6" x="58" rx="0"/>
+        <rect ry="0" antialias="false" height="4" width="4" style="line-style:normal;line-weight:normal;filling:none;color:black" y="0" x="88" rx="0"/>
+        <rect ry="0" antialias="false" height="4" width="4" style="line-style:normal;line-weight:normal;filling:none;color:black" y="6" x="-2" rx="0"/>
+        <rect ry="0" antialias="false" height="4" width="4" style="line-style:normal;line-weight:normal;filling:none;color:black" y="6" x="-12" rx="0"/>
+        <rect ry="0" antialias="false" height="10" width="2" style="line-style:normal;line-weight:normal;filling:none;color:black" y="0" x="139" rx="0"/>
+        <rect ry="0" antialias="false" height="4" width="4" style="line-style:normal;line-weight:normal;filling:none;color:black" y="0" x="38" rx="0"/>
+        <rect ry="0" antialias="false" height="4" width="4" style="line-style:normal;line-weight:normal;filling:none;color:black" y="0" x="18" rx="0"/>
+        <rect ry="0" antialias="false" height="4" width="4" style="line-style:normal;line-weight:normal;filling:none;color:black" y="6" x="-22" rx="0"/>
+        <rect ry="0" antialias="false" height="4" width="4" style="line-style:normal;line-weight:normal;filling:none;color:black" y="0" x="8" rx="0"/>
+        <rect ry="0" antialias="false" height="4" width="4" style="line-style:normal;line-weight:normal;filling:none;color:black" y="6" x="8" rx="0"/>
+        <rect ry="0" antialias="false" height="4" width="4" style="line-style:normal;line-weight:normal;filling:none;color:black" y="6" x="28" rx="0"/>
+        <rect ry="0" antialias="false" height="4" width="4" style="line-style:normal;line-weight:normal;filling:none;color:black" y="0" x="28" rx="0"/>
+        <rect ry="0" antialias="false" height="4" width="4" style="line-style:normal;line-weight:normal;filling:none;color:black" y="0" x="-2" rx="0"/>
+        <rect ry="0" antialias="false" height="4" width="4" style="line-style:normal;line-weight:normal;filling:none;color:black" y="0" x="-22" rx="0"/>
+        <rect ry="0" antialias="false" height="4" width="4" style="line-style:normal;line-weight:normal;filling:none;color:black" y="6" x="88" rx="0"/>
+        <rect ry="0" antialias="false" height="4" width="4" style="line-style:normal;line-weight:normal;filling:none;color:black" y="0" x="58" rx="0"/>
+        <rect ry="0" antialias="false" height="10" width="2" style="line-style:normal;line-weight:normal;filling:none;color:black" y="0" x="149" rx="0"/>
+        <rect ry="0" antialias="false" height="4" width="4" style="line-style:normal;line-weight:normal;filling:none;color:black" y="0" x="68" rx="0"/>
+        <rect ry="0" antialias="false" height="20" width="18" style="line-style:normal;line-weight:normal;filling:none;color:gray" y="-5" x="136" rx="0"/>
+        <rect ry="0" antialias="false" height="4" width="4" style="line-style:normal;line-weight:normal;filling:none;color:black" y="6" x="68" rx="0"/>
+        <polygon style="line-style:normal;line-weight:normal;filling:none;color:gray" antialias="false" x2="55" x8="75" x1="55" y7="15" y4="18" y5="18" x3="61" y1="-5" x4="61" y8="-5" y3="15" y2="15" x7="75" x5="69" x6="69" y6="15"/>
+        <polygon style="line-style:normal;line-weight:normal;filling:none;color:gray" antialias="false" x2="87" x8="85" x1="85" y7="-5" y4="18" y5="15" x3="87" y1="15" x4="93" y8="-5" y3="18" y2="15" x7="95" x5="93" x6="95" y6="15"/>
+        <rect ry="0" antialias="false" height="10" width="2" style="line-style:normal;line-weight:normal;filling:none;color:black" y="0" x="109" rx="0"/>
+        <rect ry="0" antialias="false" height="10" width="2" style="line-style:normal;line-weight:normal;filling:none;color:black" y="0" x="119" rx="0"/>
+        <rect ry="0" antialias="false" height="20" width="18" style="line-style:normal;line-weight:normal;filling:none;color:gray" y="-5" x="106" rx="0"/>
+        <text font="Sans Serif,6,-1,5,50,0,0,0,0,0" color="#000000" rotation="0" text=" Batt&#xa;-   +" y="-14.13" x="138.39"/>
+        <text font="Sans Serif,6,-1,5,50,0,0,0,0,0" color="#000000" rotation="0" text="Motor&#xa; 2   1" y="-15" x="106"/>
+        <circle antialias="false" style="line-style:normal;line-weight:normal;filling:none;color:gray" diameter="10" y="10" x="210"/>
+        <circle antialias="false" style="line-style:normal;line-weight:normal;filling:none;color:gray" diameter="10" y="-110" x="-30"/>
+        <polygon x12="170" x11="165" style="line-style:normal;line-weight:normal;filling:none;color:gray" y11="-50" x14="175" antialias="false" x2="205" x8="140" x1="205" y7="-110" x13="170" y9="-60" x10="150" y4="5" y5="-100" x3="210" y1="20" y12="-45" x4="220" y8="-100" y3="5" y2="11" x9="140" y10="-50" x7="150" x5="220" x6="210" y13="15" y6="-110" y14="20"/>
+        <polygon style="line-style:normal;line-weight:normal;filling:none;color:black" antialias="false" x2="230" x8="-30" x1="220" y7="-110" y4="30" y5="30" x3="230" y1="-120" x4="220" y8="-120" y3="20" y2="-110" x7="-40" x5="-30" x6="-40" y6="20"/>
+        <text font="Sans Serif,9,-1,5,50,0,0,0,0,0" color="#0000ff" rotation="0" text="PG Drives&#xa;  I-Drive" y="-80" x="160"/>
+        <dynamic_text font="Sans Serif,9,-1,5,0,0,0,0,0,0,normal" rotation="0" text_from="UserText" uuid="{7102429e-6951-47f7-9a55-01b970b39443}" text_width="-1" frame="false" Valignment="AlignTop" y="-85" Halignment="AlignLeft" x="5" z="37">
+            <text></text>
+        </dynamic_text>
+        <terminal orientation="n" y="0" x="-10"/>
+        <terminal orientation="n" y="0" x="70"/>
+        <terminal orientation="n" y="0" x="40"/>
+        <terminal orientation="s" y="10" x="40"/>
+        <terminal orientation="s" y="10" x="10"/>
+        <terminal orientation="s" y="10" x="20"/>
+        <terminal orientation="s" y="10" x="30"/>
+        <terminal orientation="s" y="10" x="0"/>
+        <terminal orientation="s" y="10" x="-20"/>
+        <terminal orientation="n" y="0" x="0"/>
+        <terminal orientation="s" y="10" x="90"/>
+        <terminal orientation="n" y="0" x="10"/>
+        <terminal orientation="n" y="0" x="60"/>
+        <terminal orientation="s" y="10" x="70"/>
+        <terminal orientation="s" y="10" x="150"/>
+        <terminal orientation="s" y="10" x="60"/>
+        <terminal orientation="n" y="0" x="90"/>
+        <terminal orientation="n" y="0" x="30"/>
+        <terminal orientation="s" y="10" x="140"/>
+        <terminal orientation="n" y="0" x="20"/>
+        <terminal orientation="n" y="0" x="-20"/>
+        <terminal orientation="s" y="10" x="120"/>
+        <terminal orientation="s" y="10" x="110"/>
+        <terminal orientation="s" y="10" x="-10"/>
+    </description>
+</definition>

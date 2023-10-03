@@ -1,0 +1,27 @@
+<definition width="20" link_type="simple" version="0.5" hotspot_x="10" orientation="dyyy" height="30" hotspot_y="19" type="element">
+    <uuid uuid="{93eafb79-a84a-45e3-b43b-327d0944591b}"/>
+    <names>
+        <name lang="pt">Terra</name>
+        <name lang="el">Γείωση</name>
+        <name lang="es">Tierra</name>
+        <name lang="nl">Aarde</name>
+        <name lang="de">Erde</name>
+        <name lang="cs">Země</name>
+        <name lang="pl">Uziemienie</name>
+        <name lang="it">Terra</name>
+        <name lang="ar">تأريض</name>
+        <name lang="en">Ground</name>
+        <name lang="fr">Terre</name>
+        <name lang="ru">Земля</name>
+    </names>
+    <informations>Author: The QElectroTech team
+License: see http://qelectrotech.org/wiki/doc/elements_license</informations>
+    <description>
+        <input x="2" y="-11.5" tagg="label" size="9" rotate="true" text="_"/>
+        <line antialias="false" length1="1.5" x2="3" end2="none" x1="-3" end1="none" y2="4" length2="1.5" style="line-style:normal;line-weight:normal;filling:none;color:black" y1="4"/>
+        <line antialias="false" length1="1.5" x2="5" end2="none" x1="-5" end1="none" y2="2" length2="1.5" style="line-style:normal;line-weight:normal;filling:none;color:black" y1="2"/>
+        <line antialias="false" length1="1.5" x2="7" end2="none" x1="-7" end1="none" y2="0" length2="1.5" style="line-style:normal;line-weight:normal;filling:none;color:black" y1="0"/>
+        <line antialias="false" length1="1.5" x2="0" end2="none" x1="0" end1="none" y2="0" length2="1.5" style="line-style:normal;line-weight:normal;filling:none;color:black" y1="-10"/>
+        <terminal x="0" y="-11" orientation="n"/>
+    </description>
+</definition>

@@ -1,0 +1,39 @@
+<definition hotspot_y="53" type="element" orientation="dyyy" height="100" link_type="simple" hotspot_x="50" width="100" version="0.70">
+    <uuid uuid="{1aa40d2a-e05d-40dd-a709-3fd480400150}"/>
+    <names>
+        <name lang="en">Pololu MDA01 Single Driver</name>
+    </names>
+    <elementInformations/>
+    <informations></informations>
+    <description>
+        <rect style="line-style:normal;line-weight:normal;filling:none;color:black" x="32.5186" rx="0" height="70" width="9.96277" antialias="false" y="-35" ry="0"/>
+        <text x="-30.841" rotation="0" color="#000000" text="Mb" font="Sans Serif,5,-1,5,50,0,0,0,0,0" y="-7.19667"/>
+        <text x="24.297" rotation="0" color="#000000" text="EA" font="Sans Serif,5,-1,5,50,0,0,0,0,0" y="22.1507"/>
+        <text x="6.318" rotation="0" color="#000000" text="V+" font="Sans Serif,5,-1,5,50,0,0,0,0,0" y="-26.5607"/>
+        <text x="27.433" rotation="0" color="#000000" text="P" font="Sans Serif,5,-1,5,50,0,0,0,0,0" y="12.1476"/>
+        <text x="26.8133" rotation="0" color="#000000" text="+" font="Sans Serif,5,-1,5,50,0,0,0,0,0" y="-18.4719"/>
+        <text x="26.728" rotation="0" color="#000000" text="G" font="Sans Serif,5,-1,5,50,0,0,0,0,0" y="-27.385"/>
+        <text x="-14.8258" rotation="0" color="#000000" text="Gnd" font="Sans Serif,5,-1,5,50,0,0,0,0,0" y="-26.5314"/>
+        <text x="27.569" rotation="0" color="#000000" text="B" font="Sans Serif,5,-1,5,50,0,0,0,0,0" y="-8.03767"/>
+        <text x="-30.8108" rotation="0" color="#000000" text="Ma" font="Sans Serif,5,-1,5,50,0,0,0,0,0" y="12.1463"/>
+        <text x="24.7657" rotation="0" color="#000000" text="EB" font="Sans Serif,5,-1,5,50,0,0,0,0,0" y="2.45291"/>
+        <rect style="line-style:normal;line-weight:normal;filling:none;color:black" x="-15" rx="0" height="11" width="30" antialias="false" y="-43" ry="0"/>
+        <rect style="line-style:normal;line-weight:normal;filling:none;color:black" x="-42.4814" rx="0" height="30" width="9.96277" antialias="false" y="-15" ry="0"/>
+        <text x="-12.9917" rotation="0" color="#000000" text="Pololu" font="Sans Serif,9,-1,5,50,0,0,0,0,0" y="-9.11301"/>
+        <text x="-15.2343" rotation="0" color="#000000" text="MD01A" font="Sans Serif,9,-1,5,50,0,0,0,0,0" y="3.08366"/>
+        <text x="-12.9917" rotation="0" color="#000000" text="Driver" font="Sans Serif,9,-1,5,50,0,0,0,0,0" y="13.8787"/>
+        <rect style="line-style:normal;line-weight:normal;filling:none;color:black" x="-46.7221" rx="0" height="87.0959" width="93.0705" antialias="false" y="-47.0959" ry="0"/>
+        <text x="26.5513" rotation="0" color="#000000" text="A" font="Sans Serif,5,-1,5,50,0,0,0,0,0" y="32.1283"/>
+        <terminal orientation="w" x="-40" y="-10"/>
+        <terminal orientation="n" x="10" y="-40"/>
+        <terminal orientation="e" x="40" y="-10"/>
+        <terminal orientation="n" x="-10" y="-40"/>
+        <terminal orientation="e" x="40" y="30"/>
+        <terminal orientation="w" x="-40" y="10"/>
+        <terminal orientation="e" x="40" y="0"/>
+        <terminal orientation="e" x="40" y="-30"/>
+        <terminal orientation="e" x="40" y="10"/>
+        <terminal orientation="e" x="40" y="20"/>
+        <terminal orientation="e" x="40" y="-20"/>
+    </description>
+</definition>
