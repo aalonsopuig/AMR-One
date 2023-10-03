@@ -1,0 +1,19 @@
+- [ ] Remaches roscados m5 son 7mm de diametro
+- [ ] remaches de perfiles a plancha laser son 4x8mm y las piezas de anclaje frontales, si son 3d llevan arandela m4 y remaches 4x10mm
+- [ ] Tornillos soporte chasis vertical fino comprados mejores. Cabeza hexa llave del 8
+- [ ] Tornillos anclaje motores a soporte no son M6x14 CS sino M6x20 como los de soporte chasis fino central vertical
+- [ ] p0380a y b son cortas
+- [ ] Pieza interruptor
+- [ ] Plc, tornillos 5x30 son largos. Debe ser 5x25
+- [ ] arandelas m6 anchas compradas están bien en general, mero hay por lo menos 10 a 15 que ha habido que cortarlas. Estrechas vendrían mejor en estos casos. Muy estrechas.
+- [ ] mal calculadas dimensiones de fondo laser. Longitud de pieza total es 557mm, no 530, o dos piezas de 227 (no 2012) y una de 103mm
+- [ ] En P0425, agujeros remache M4 son de 6,2mm
+- [ ] bracket the RFID no coinciden agujeros con RFID. O modelo RFID mal o pieza, o precisiones de fabricación
+- [ ] piezas 3d con agujero M6 que hay que aumentad diámetro 1mm: P0011, P0016, P0250, P0255, P0260, P0265, P0270
+- [ ] No hay medidas en ensamblajes. Por ejemplo altura a la que queda el canal de haz láser o posición exacta de las barras verticales
+- [ ] Las barras centrales superioer e inferior son cortas unos 3 o 4 mm no se si es pir imprecisión de cortes o por medidas mal tomadas
+- [ ] Los tornillos de soporte de bateria M6x14cs podrían ser M5x12 para ahorrar referencias
+- [ ] sensor banda medidas herróneas. Modificar modelo y pieza 3d frontal
+- [ ] carril din puede ir de arriba abajo todo el alto del chasis. Junto a la parte del eje hay que recortar redondear.
+- [ ] Piezas sujeción muelle, aliminio, 20x50mm con agujero 6mm en el centro y dobleces de 10mm a ambos lados
+- [ ] Falta añadir a planos el pinhook
